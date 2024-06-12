@@ -1,3 +1,6 @@
 # ocr-handwritten
+--> Install Depedencies :
 
-'''pip install "python-doctr[tf]"'''
+```
+pip install -r requirements.txt
+```
